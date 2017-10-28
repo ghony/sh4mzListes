@@ -8,5 +8,6 @@
         "body-parser": "~1.10.1"
     },
     "author": "Sh4mZ <alghony@gmail.com>",
-    "description": "Gestion de liste simple"
+    "description": "Gestion de liste simple",
+	"main": "index.js"
 }
